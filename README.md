@@ -1,11 +1,11 @@
-    # My Terraform-created Repository
+# My Terraform-created Repository
 
     This repository was created using Terraform.
 
-    ## Introduction
+## Introduction
 
     Welcome to my repository!
 
-    ## Getting Started
+## Getting Started
 
     To get started, follow these steps...
